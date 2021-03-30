@@ -1,0 +1,144 @@
+    1  mkdir gist
+    2  mkdir apssdc1
+    3  touch profile.txt
+    4  pwd
+    5  clear
+    6  cd apssdc1
+    7  touch profile.txt
+    8  ls
+    9  vi profile.txt
+   10  cat profile.txt
+   11  vi profile.txt
+   12  cat profile.txt
+   13  touch sample.html
+   14  vi sample.html
+   15  mkdir gist-539
+   16  touch profile.txt
+   17  pwd
+   18  clear
+   19  cd gist-539
+   20  touch profile.txt
+   21  ls
+   22  vi profile.txt
+   23  vi profile,txt
+   24  cat profile.txt
+   25  vi profile.txt
+   26  touch sample.html
+   27  vi sample.html
+   28  git init
+   29  git clone 'https://github.com/Greeshma539/gist_git'
+   30  ls
+   31  cd gist_git/
+   32  ls
+   33  vi README.md
+   34  git config --global user.name 'Greeshma539'
+   35  git config --global user.email 'pgreeshma539@gmail.com'
+   36  git init
+   37  git status -s
+   38  touch example.py
+   39  git status 
+   40  git status -s
+   41  git add .
+   42  git status -s
+   43  git commit -m 'write markdown statements'
+   44  git log
+   45  git add remote origin 'https://github.com/Greeshma539/gist_git.git'
+   46  git add remote origin 'https://github.com/Greeshma539/gist_git.git'
+   47  git remote add origin 'https://github.com/Greeshma539/gist_git.git'
+   48  git push origin master
+   49  git push origin main
+   50  git add remote origin 'https://github.com/Greeshma539/gist_git.git'
+   51  git add remote origin 'https://github.com/Greeshma539/gist_git.git'
+   52  git push origin main
+   53  git status -s
+   54  touch Day2-Da.py
+   55  git status -s
+   56  git push origin main
+   57  mkdir abcdefgh
+   58  git init
+   59  git clone 'https://github.com/lohitha168/DA_4-2.git'
+   60  ls
+   61  git init
+   62  git clone 'https://github.com/lohitha168/DA_4-2.git'
+   63  ls
+   64  vi Day5
+   65  git add .
+   66  git commit -m "done"
+   67  git push origin master 
+   68  git push --force origin master
+   69  git clone 'https://github.com/lohitha168/DA_4-2.git'
+   70  git remote add origin "https://github.com/lohitha168/DA_4-2.git"
+   71  vi Day5
+   72  git add .
+   73  git commit -m 'done'
+   74  git push origin master
+   75  git config user.name 'lohitha168'
+   76  git config user.mail 'lohithasreeram1@gmail.com'
+   77  git push origin master
+   78  git  init
+   79  git config user.name 'lohitha168'
+   80  git config user.mail 'lohithasreeram1@gmail.com'
+   81  git clone 'https://github.com/lohitha168/DA_4-2.git'
+   82  git remote add origin 'https://github.com/lohitha168/DA_4-2.git' 
+   83  git add .
+   84  git commit -m 'done'
+   85  git push origin master
+   86  pwd
+   87  ls
+   88  touch demo.txt
+   89  ls
+   90  mkdir GIST
+   91  ls
+   92  cd GIST
+   93  pwd
+   94  cd ..
+   95  pwd
+   96  cd e
+   97  cd e:
+   98  pwd
+   99  cd d:
+  100  cd c:
+  101  cd C:/Users/dell/Desktop/sindhu-404
+  102  pwd
+  103  echo "HELLO"
+  104  ECHO "1..100"
+  105  ECHO {1..100}
+  106  TOUCH FILE{1..100}.txt
+  107  touch python{20..50}
+  108  touch clanguage{50..70}
+  109  pwd
+  110  ls
+  111  rmdir GIST
+  112  LS
+  113  rm demo.txt
+  114  rm file{1..10}.txt
+  115  ls
+  116  rm file{50..100}.txt
+  117  ls
+  118  rm clanguage{50..100}.cpp
+  119  rm *.txt
+  120  ls
+  121  rm *.py
+  122  rm *.py
+  123  nano myfile.txt
+  124  cat myfile.txt
+  125  nano myfile.txt
+  126  cat myfile.txt 
+  127  nano myfile.txt 
+  128  cat myfile.txt 
+  129  touch example.txt
+  130  echo {1..1000}>>example.txt
+  131  cat example.txt 
+  132  nano example.txt 
+  133  cat example.txt 
+  134  mv myfile2.txt myfile.txt
+  135  touch myfile2.txt
+  136  mv myfile2.txt example.txt
+  137  cat myfile2.txt
+  138  cat example.txt
+  139  echo "hello" >>myfile2.txt
+  140  cat myfile2.txt
+  141  mv myfile2.txt example.txt
+  142  cat example.txt
+  143  history
+  144  history >> history.txt
